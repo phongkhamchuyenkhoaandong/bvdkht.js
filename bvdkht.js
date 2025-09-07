@@ -1,5 +1,5 @@
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2841/phong-kham-tan-binh.html")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2845/phong-kham-an-dong.html")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
@@ -308,4 +308,5 @@ window.onload = function() {
     }
 }
 Giải thích
+
 
