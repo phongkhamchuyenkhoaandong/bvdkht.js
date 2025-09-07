@@ -307,7 +307,7 @@ window.onload = function() {
         window.location.reload();
     }
 }
-Giải thích
+
 
 
 
