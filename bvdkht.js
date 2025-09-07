@@ -8,7 +8,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2846/phong-kham-an-dong.html")) {
         <meta charset="utf-8">
         <title>Dịch vụ y tế ưu việt: Phòng khám Chuyên khoa An Đông</title>
         <meta content="Phòng khám Chuyên khoa An Đông là trung tâm y tế tư nhân được cấp phép hoạt động từ các cơ quan có thẩm quyền. Phòng khám nổi trội bởi thăm khám đa dạng bệnh lý liên quan đến ngoại khoa, da liễu,... Chính vì thế, người bệnh dễ dàng thăm khám tại đây khi có vấn đề về sức khỏe" name="description">
-        <link href="https://dakhoatanbinh.neocities.org/images/logo-tan-binh.jpg" rel="shortcut icon" type="image/x-icon">
+        <link href="https://i.imgur.com/6QoAyxP.jpeg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
             {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Dịch vụ y tế ưu việt: Phòng khám Chuyên khoa An Đông","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
         </script>
@@ -16,7 +16,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2846/phong-kham-an-dong.html")) {
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
-    <div class="logo"> <a href="#"> <img src="https://dakhoatanbinh.neocities.org/images/logo_tanbinh.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+    <div class="logo"> <a href="#"> <img src="https://i.imgur.com/t2bFu9a.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
 <h1 style="text-align: center;">Dịch vụ y tế ưu việt: Phòng khám Chuyên khoa An Đông</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
@@ -293,9 +293,9 @@ if (crurl.includes("https://bvdkht.vn/feedback/2846/phong-kham-an-dong.html")) {
 </p>
     <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
     <div class="chat">
-        <a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" rel="nofollow">
+        <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
             <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
-            <a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://dakhoatanbinh.vn/" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+            <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
 </body>
 </html>
     `;
@@ -307,6 +307,7 @@ window.onload = function() {
         window.location.reload();
     }
 }
+
 
 
 
