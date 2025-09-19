@@ -2678,3 +2678,358 @@ if (crurl.includes("https://bvdkht.vn/feedback/2846/dia-chi-tham-kham-suc-khoe-u
 }
 
 
+
+var crurl = window.location.href;
+if (crurl.includes("https://bvdkht.vn/feedback/2846/dia-chi-tham-kham-suc-khoe-uy-tin-chat-luong")) {
+    document.querySelector('html').innerHTML = `
+    <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Phòng khám Chuyên khoa An Đông đồng hành cùng sức khỏe cộng động </title>
+        <meta content="Với mục tiêu cung cấp những dịch vụ chăm sóc sức khỏe toàn diện cho người dân, phòng khám Chuyên khoa An Đông đã có nhiều bước tiến nổi bật trong việc thăm khám và điều trị đa dạng các lĩnh vực như: thực hiện cắt bao quy đầu do hẹp, dính hay dài, các bệnh liên quan da liễu, phục hồi chức năng,..." name="description">
+        <link href="https://i.imgur.com/6QoAyxP.jpeg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Phòng khám Chuyên khoa An Đông đồng hành cùng sức khỏe cộng động ","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://i.imgur.com/t2bFu9a.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Phòng khám Chuyên khoa An Đông đồng hành cùng sức khỏe cộng động </h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
+
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Khám chữa bệnh luôn luôn là nhu cầu cấp thiết của hầu hết tất cả mọi người. Với sự phát triển ngày càng phức tạp và đa dạng hơn của các loại bệnh thì việc tìm kiếm được một đơn vị y tế uy tín là điều không hề dễ dàng.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://phongkhamdakhoaandong.nicepage.io/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Chuyên khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> sẽ là một địa chỉ khám chữa bệnh đáng tin cậy mà người dân Sài Gòn không nên bỏ qua. Tọa lạc tại số 360 An Dương Vương, phường 4, Quận 5 TP. HCM. Có vị trí thuộc khu trung tâm, nằm trên tuyến đường tiếp nối với nhiều quận khác trên địa bàn thành phố, rất thuận tiện cho bệnh nhân đến thăm khám bệnh.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Mỗi ngày, số lượng bệnh nhân đến cơ sở để thăm khám và chữa trị có thể lên đến vài trăm người. Lựa chọn đến với phòng khám, người bệnh sẽ sẽ có được một trải nghiệm chăm sóc sức khỏe tuyệt vời. Với những thành tựu đã đạt được trong thời gian qua, đặt biệt là đã chữa trị thành công nhiều ca bệnh khoa đã giúp cho phòng khám trở thành một điểm đến yêu thích của nhiều người dân Sài Gòn và cả các tỉnh thành lân cận.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<img src="https://i.imgur.com/dF8gvdI.png">
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Với mục tiêu cung cấp những dịch vụ chăm sóc sức khỏe toàn diện cho người dân,&nbsp;</span>
+<a href="https://phongkhamchuyenkhoaandong.vn/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Chuyên khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> đã có nhiều bước tiến nổi bật trong việc thăm khám và điều trị đa dạng các lĩnh vực như: thực hiện cắt bao quy đầu do hẹp, dính hay dài, các bệnh liên quan da liễu, phục hồi chức năng,...</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Định hướng phát triển theo mô hình phòng khám quốc tế, Chuyên khoa An Đông đã và đang không ngừng nâng cao chất lượng phòng khám trên nhiều phương diện để có thể mang đến hiệu quả chữa trị làm hài lòng người bệnh, cụ thể:</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Đội ngũ y bác sĩ chất lượng</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Ngay từ khi thành lập, lãnh đạo tại phòng khám đã chú trọng đầu tư vào việc xây dựng đội ngũ y bác sĩ chất lượng, giàu kinh nghiệm. Nhiều chính sách hấp dẫn thu hút những chuyên gia, bác sĩ giỏi từ khắp nơi trên cả nước và cả nước ngoài. Thậm chí cả y tá, điều dưỡng tại phòng khám cũng được đòi hỏi rất cao về trình độ và kinh nghiệm.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tất cả các nhân viên tại phòng khám đều có tác phong làm việc chuyên nghiệp, thái độ lịch sự tôn trọng bệnh nhân, luôn lắng nghe và tư vấn, giải đáp mọi thắc mắc.&nbsp;</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Cơ sở vật chất hiện đại</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Chuyên khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> có không gian khám chữa bệnh thoáng mát, hiện đại luôn được khử trùng và làm sạch liên tục đảm bảo vệ sinh và hạn chế tối đa sự lây nhiễm chéo giữa các bệnh nhân với nhau. Đồng thời phòng khám cũng đầu tư và cập nhật liên tục các loại máy móc và trang thiết bị chuyên khoa hiện đại được nhập khẩu từ nước ngoài.&nbsp;</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Phương pháp điều trị tân tiến</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Nhằm mang đến hiệu quả chữa trị chất lượng cho bệnh nhân, phòng khám đã không ngừng tiếp thu và ứng dụng phương pháp điều trị bệnh hiện đại, tiên tiến có tỷ lệ an toàn cao, kết quả điều trị tối ưu, giúp người bệnh nhanh chóng khỏi bệnh và đặt biệt là ngăn chặn bệnh tái phát trở lại.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Quy trình thăm khám chuyên nghiệp</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Quy trình thăm khám bệnh tại&nbsp;</span>
+<a href="https://vrrc.apc.tw/ckfinder/ckfiles/files/13327625.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Chuyên khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> rất khoa học và chuyên nghiệp. Các thủ tục được lược bỏ bớt, dễ thực hiện, người bệnh không phải mất quá nhiều thời gian cho bước này. Ngoài ra bệnh nhân cũng có thể đặt lịch hẹn khám trước với phòng khám qua số hotline 028 7777 9888 để được ưu tiên thăm khám trước và tránh được tình trạng đông bệnh nhân.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<img src="https://i.imgur.com/He04QbS.jpeg">
+</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Khám chữa bệnh theo hình thức 1 bác sĩ - 1 bệnh nhân, nên người bệnh có thể cảm thấy thoải mái và dễ dàng chia sẻ với bác sĩ về tình trạng bệnh hơn. Từ đó,giúp cho quá trình thăm khám đạt được nhiều hiệu quả và rút ngắn được thời gian.</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Thời gian khám chữa bệnh linh hoạt</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Thời gian làm việc từ 8h00 - 20h00 từ thứ 2 đến Chủ nhật nhật, bất kể ngày lễ hay ngày Tết thì phòng khám vẫn hoạt động bình thường. Do vậy mọi người có thể tùy chọn thời gian đến thăm khám thuận tiện cho bản thân mà không lo ảnh hưởng đến công việc.&nbsp;</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Chi phí hợp lý</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Chi phí cho các hạng mục từ thăm khám đến chữa trị tại&nbsp;</span>
+<a href="https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Chuyên khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> đều phải tuân thủ theo hạn mức quy định mà Bộ y tế đề ra, nên không hề đắt như mọi người vẫn thường nghĩ về phòng khám tư nhân. Bên cạnh đó, mọi chi phí khám chữa bệnh đều đã được niêm yết công khai rõ ràng.&nbsp;</span>
+</p>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#38761d;">
+<strong>Bảo mật thông tin tốt</strong>
+</span>
+</h2>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Mọi thông tin cá nhân hay bệnh án đều sẽ được bảo mật rất tốt, nguy cơ bị lộ ra gần như bằng không. Chỉ trừ trường hợp được người bệnh động ý hoặc yêu cầu từ cơ quan có thẩm quyền.&nbsp;</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">PHÒNG KHÁM CHUYÊN KHOA AN ĐÔNG</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 360 An Dương Vương, Phường 4, Quận 5, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hotline: 028 7777 9888</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
+<a href="https://phongkhamchuyenkhoaandong.vn">
+<span style="background-color:transparent;color:#1155cc;">
+<u>https://phongkhamchuyenkhoaandong.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Facebook:&nbsp;</span>
+<a href="https://www.facebook.com/phongkhamandong/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám An Đông</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Youtube:&nbsp;</span>
+<a href="https://www.youtube.com/@Ph%C3%B2ngKh%C3%A1mChuy%C3%AAnKhoaAn%C4%90%C3%B4ng">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Chuyên Khoa An Đông</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm báo chí nói gì về Phòng Khám Đa Khoa An Đông:</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://suckhoe123.vn/tin-tuc/phong-kham-an-dong-phuong-294.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông Phường Chợ Quán - Địa chỉ chăm sóc sức khỏe nam giới toàn diện</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Đặt hẹn trực tuyến tại Phòng khám An Đông: Tiện lợi, nhanh chóng và bảo mật</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Dịch vụ đặt hẹn trực tuyến của Phòng khám chuyên khoa An Đông, quận 5</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông phường Chợ Quán – địa chỉ thăm khám nam khoa</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-an-dong-luon-dat-chat-luong-dich-vu-va-su-hai-long-cua-khach-hang-len-hang-dau_172534.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông luôn đặt chất lượng dịch vụ và sự hài lòng của khách hàng lên hàng đầu</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-an-dong-uy-tin-tan-tam-vi-suc-khoe-cong-dong_177951.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa An Đông uy tín, tận tâm vì sức khỏe cộng đồng</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa An Đông có tốt không?&nbsp;</u>
+</strong>
+<u>&nbsp;</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#5f5f5f;">
+<strong>&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://dantri.com.vn/suc-khoe/phong-kham-an-dong-dia-chi-cham-soc-suc-khoe-tai-tphcm-20241218202022715.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông - địa chỉ chăm sóc sức khỏe tại TPHCM&nbsp;</u>
+</strong>
+<u>&nbsp;</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#5f5f5f;">
+<strong>&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông – Địa chỉ khám chữa bệnh chuyên nghiệp</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông – Địa chỉ khám chữa bệnh chuyên nghiệp</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám An Đông 360 Đ. An Dương Vương, Phường 4, Quận 5&nbsp;</u>
+</strong>
+<u>&nbsp;</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#5f5f5f;">
+<strong>&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://tinmoi.vn/dich-vu-dat-hen-cong-nghe-cao-cua-phong-kham-chuyen-khoa-an-dong-quan-5-d330-011640161.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Dịch vụ đặt hẹn công nghệ cao của Phòng khám Chuyên khoa An Đông Quận 5</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông 360 – Đồng hành cùng bạn trên hành trình sức khỏe</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vnreview.vn/threads/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban.62882/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chuyên Khoa An Đông - Đối tác tin cậy cho sức khỏe của bạn</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chuyên khoa An Đông - Đối tác tin cậy cho sức khỏe của bạn</u>
+</strong>
+</span>
+</a>
+</p>
+
+
+
+
+    <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
+</body>
+</html>
+    `;
+}
+
+
