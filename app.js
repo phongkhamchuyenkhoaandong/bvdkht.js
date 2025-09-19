@@ -25,203 +25,391 @@ const pages = {
   ,
   "04": `
 <!DOCTYPE html>
-<html lang=vi>
-<head>
-<meta content="width=device-width, initial-scale=1" name="viewport"/>
-<meta charset="utf-8">
-<meta name="google-site-verification" content="eEE2YAwr4yLo_IKZBoQ9Uq2g5XrIIoXBC-euYuqT3PM" />
-<title>Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình</title>
-<meta content="Đa khoa Tân Bình đang là phòng khám nam khoa tphcm có chất lượng cao nhưng chi phí lại cực kì hợp lý" name="description"/>
-  <meta name="google-site-verification" content="pYIzbyzVGap27XvvF1a-HVdQTdwpL_dEmEysGnDBobA" />
-<script src="https://v.timduongdi.com/46609.js"></script>
-<link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
-<link href="https://phongkhamtanbinh.org/image/logo.png" rel="shortcut icon" type="image/x-icon"/>
-    <script type="application/ld+json">
-      {"@context": "https://schema.org/",	
-  	"@type": "CreativeWorkSeason",	
-  	"name": "Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình",	
-  	"aggregateRating": {	
-  	"@type": "AggregateRating",	
-  	"ratingValue": "9.9",	
-  	"ratingCount": "6789",	
-  	"bestRating": "10",	
-  	"worstRating": "1"	}}
-	 </script>
-</head><body>
-<div id = "content">
-<div><img src="https://i.imgur.com/R9PRfZk.png"></div>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#274e13;">
-<h1 style="text-align:justify;">
-<span style="background-color:transparent;color:#274e13;">
-<strong>Đội Ngũ Bác Sĩ Giỏi Khám Nam Khoa Uy Tín Ở Đa Khoa Tân Bình</strong>
-</span>
-</h1>
+  <html lang="vi">
+    <head>
+        <meta content="width=device-width,initial-scale=1" name="viewport">
+        <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
+        <meta charset="utf-8">
+        <title>Điều trị bệnh đa khoa ở phòng khám chuyên khoa An Đông </title>
+        <meta content="Công ty TNHH Phòng khám Đa Khoa An Đông (số 360 An Dương Vương, P.4, Q.5, TP. HCM) là một địa chỉ y tế uy tín tại khu vực TP. HCM" name="description">
+        <link href="https://i.imgur.com/6QoAyxP.jpeg" rel="shortcut icon" type="image/x-icon">
+        <script type="application/ld+json">
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Điều trị bệnh đa khoa ở phòng khám chuyên khoa An Đông ","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+        </script>
+        <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
+    </head>
+    <body>
+<div class="header" style="display: flex; justify-content: center;">
+    <div class="logo"> <a href="#"> <img src="https://i.imgur.com/t2bFu9a.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
+<h1 style="text-align: center;">Điều trị bệnh đa khoa ở phòng khám chuyên khoa An Đông </h1>
+<div id="content" style="text-align: left;">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+
 
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Việc lựa chọn một phòng khám nam khoa tphcm uy tín sẽ giúp các quý ông yên tâm hơn trong việc bảo vệ sức khỏe sinh lý, bảo vệ khả năng sinh sản, giữ vững hạnh phúc gia đình. Trong số nhiều cơ sở chuyên nam khoa đang hoạt động hiện nay thì&nbsp;</span>
-<a href="https://dakhoatanbinh.vn/">
+<a href="https://phongkhamdakhoaandong.nicepage.io/">
 <span style="background-color:transparent;color:#1155cc;">
 <strong>
-<u>phòng khám đa khoa Tân Bình</u>
+<u>Công ty TNHH Phòng khám Đa Khoa An Đông</u>
 </strong>
 </span>
 </a>
-<span style="background-color:transparent;color:#000000;"> được đánh giá có nhiều thế mạnh vượt trội hơn cả.</span>
+<span style="background-color:transparent;color:#000000;"> (số 360 An Dương Vương, P.4, Q.5, TP. HCM) là một địa chỉ y tế uy tín tại khu vực TP. HCM. Với đội ngũ bác sĩ tận tâm, trang thiết bị y tế tiên tiến và không gian thoải mái, phòng khám cam kết mang đến cho người bệnh sự an tâm và hài lòng về sức khỏe của bản thân.</span>
 </p>
-<p>&nbsp;</p>
 <h2 style="text-align:justify;">
 <span style="background-color:transparent;color:#ff0000;">
-<strong>Chất lượng khám nam khoa tại phòng khám đa khoa Tân Bình TPHCM</strong>
+<strong>Công ty TNHH Phòng Khám Đa Khoa An Đông khám chữa đa dạng các lĩnh vực bệnh</strong>
 </span>
 </h2>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Nhắc đến&nbsp;<strong>phòng khám đa khoa Tân Bình</strong> là nhắc đến một thương hiệu chăm sóc sức khỏe phái mạnh có tiếng, đây là cơ sở hoạt động hợp pháp dưới sự cấp phép và quản lý của Sở Y tế. Chất lượng khám nam khoa tại&nbsp;</span>
-<a href="https://thanhnien.vn/dich-vu-y-te-tai-phong-kham-da-khoa-tan-binh-185250417143648566.htm">
+<a href="https://phongkhamchuyenkhoaandong.vn/">
 <span style="background-color:transparent;color:#1155cc;">
 <strong>
-<u>phòng khám đa khoa Tân Bình TpHCM</u>
+<u>Phòng khám Chuyên Khoa An Đông</u>
 </strong>
 </span>
 </a>
-<span style="background-color:transparent;color:#000000;"> luôn được giới chuyên môn ghi nhận và đánh giá cao.</span>
+<span style="background-color:transparent;color:#000000;"> tự hào đáp ứng điều trị đa dạng các bệnh lý liên quan đến nội khoa, ngoại khoa và dịch vụ nhằm để thực hiện nhu cầu chăm sóc sức khỏe của người bệnh. Dưới đây là một số chuyên khoa quan trọng mà phòng khám cung cấp:</span>
 </p>
-<h3 style="text-align:justify;">
-<span style="background-color:transparent;color:#38761d;">
-<strong>Đội ngũ y bác sĩ giỏi</strong>
-</span>
-</h3>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Là một địa chỉ khám nam khoa tại tphcm có tiếng,&nbsp;<strong>phòng khám Tân Bình</strong> quy tụ đội ngũ bác sĩ là những người có bằng cấp cao, nhiều kinh nghiệm trong nghề, tay nghề vững. Các y bác sĩ tại đây thường xuyên được huấn luyện và tiếp thu những phương pháp mới, thiết bị kỹ thuật tiến tiến, nhờ vậy hiệu quả khám chữa bệnh được nâng cao vượt trội.</span>
+<span style="background-color:transparent;color:#000000;">
+<strong>- Ngoại khoa:</strong> Phòng khám hỗ trợ trong việc cắt và khâu bao quy đầu trường hợp bao quy đầu bị hẹp, dài;...</span>
 </p>
-<p style="text-align:center;">
-<img src="https://sf-static.upanhlaylink.com/img/image_20250911f3b15ee1517b45cd6d55888303ea9f7f.jpg">
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>- Da liễu:&nbsp;</strong>Chuyên gia da liễu tại cơ sở y tế sẽ giúp bệnh nhân chăm sóc và điều trị các vấn đề về da như mụn trứng cá, eczema, viêm da, nám da và các vấn đề khác liên quan đến da.</span>
 </p>
 <p style="text-align:center;">
 <span style="background-color:transparent;color:#000000;">
-<i>Phòng Khám Đa Khoa Tân Bình là địa chỉ cung cấp dịch vụ y tế tiện ích</i>
+<img src="https://i.imgur.com/VZwfmfl.jpeg">
 </span>
 </p>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Nhân viên điều dưỡng, y tá được đào tạo chuyên nghiệp, luôn đặt sức khỏe bệnh nhân lên trên hết. Sự tận tâm, nhiệt tình và tâm lý là những yếu tố giúp bệnh nhân thoải mái điều trị.</span>
-</p>
-<h3 style="text-align:justify;">
-<span style="background-color:transparent;color:#38761d;">
-<strong>Ứng dụng công nghệ tiến tiến hỗ trợ điều trị bệnh</strong>
-</span>
-</h3>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Một số phương pháp hiệu quả điều trị bệnh nam khoa tại phòng khám như:</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Dùng thuốc đặc trị; cắt bao quy đầu kiểu Hàn Quốc giúp điều trị các bệnh lý bao quy đầu như: viêm nhiễm, dài hẹp bao quy đầu.</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">-&nbsp; Kỹ thuật cắt dây thần kinh giao cảm kiểu Châu Âu;&nbsp; Phối hợp thuốc và vật lý trị liệu, hóa trị liệu giúp hỗ trợ điều trị rối loạn chức năng sinh lý như: xuất tinh sớm, yếu sinh lý.</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Các kỹ thuật xâm lấn tối thiểu giúp chỉnh hình nam khoa như: kéo dài dương vật, gắn bi dương vật</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Tùy thuộc vào nguyên nhân gây bệnh, tình trạng bệnh lý của từng người mà bác sĩ sẽ tư vấn phương pháp điều trị hiệu quả nhất cho các đấng mày râu</span>
-</p>
-<h3 style="text-align:justify;">
-<span style="background-color:transparent;color:#38761d;">
-<strong>Cơ sở vật chất hiện đại</strong>
-</span>
-</h3>
-<p style="text-align:justify;">
-<a href="https://suckhoedoisong.vn/phong-kham-da-khoa-tan-binh-495-cong-hoa-co-uy-tin-khong-169230511080018929.htm">
+<span style="background-color:transparent;color:#000000;">Đây chỉ là một số chuyên khoa chất lượng và nổi bật tại&nbsp;</span>
+<a href="https://bvdkht.vn/feedback/2849/phong-kham-chuyen-khoa-an-dong.html">
 <span style="background-color:transparent;color:#1155cc;">
 <strong>
-<u>Phòng khám nam khoa TPHCM đa khoa Tân Bình</u>
+<u>Phòng khám Chuyên Khoa An Đông</u>
 </strong>
 </span>
 </a>
-<span style="background-color:transparent;color:#000000;"> được xây dựng khang trang và rộng rãi, hệ thống các phòng chức năng được trang bị máy móc hiện đại nên quá trình thăm khám diễn ra nhanh chóng.</span>
+<span style="background-color:transparent;color:#000000;">. Khi trực tiếp đến với cơ sở y tế, người bệnh sẽ được đội ngũ nhân viên giàu kinh nghiệm và tận tâm chăm sóc tốt nhất cho sức khỏe của bản thân.&nbsp;</span>
 </p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Phòng xét nghiệm được trang bị các máy móc hiện đại như máy siêu âm màu 4D, máy chụp cắt lớp CT, máy cộng hưởng từ MRI, máy nội soi gây mê…</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">-&nbsp; Phòng tiểu phẫu, thiết bị y khoa được khử vô trùng, phòng ngừa viêm nhiễm giúp bệnh nhân phục hồi sau điều trị tốt hơn.</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Hệ thống phòng chờ được lắp đặt tivi, ghế salon cao cấp, máy lạnh, wifi...giúp mọi người thoải mái hơn trong quá trình thăm khám và điều trị</span>
-</p>
-<h3 style="text-align:justify;">
-<span style="background-color:transparent;color:#38761d;">
-<strong>Dịch vụ y tế chất lượng cao</strong>
+<h2 style="text-align:justify;">
+<span style="background-color:transparent;color:#ff0000;">
+<strong>Công ty TNHH Phòng Khám Đa Khoa An Đông hội tụ các đặc điểm nổi bật</strong>
 </span>
-</h3>
+</h2>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Phòng khám đa khoa Tân Bình đã và đang áp dụng mô hình hỗ trợ khám chữa bệnh “1 y tá - 1 bác sĩ - 1 bệnh nhân” nhờ vậy bệnh nhân sẽ được chăm sóc và điều trị tận tình hơn.</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Hệ thống tư vấn trực tuyến giúp giải đáp thắc mắc và đặt lịch hẹn khám chữa bệnh hoàn toàn miễn phí. Bệnh nhân có thể chủ động sắp xếp thời gian để đến phòng khám mà không cần phải xếp hàng, chờ đợi mệt mỏi.</span>
-</p>
-<p style="text-align:center;">
-<img src="https://sf-static.upanhlaylink.com/img/image_20250911e6fa3a5fd4522d67eaa7837efe171306.jpg">
-</p>
-<p style="text-align:center;">
-<span style="background-color:transparent;color:#000000;">
-<i>Hệ thống cơ sở vật chất thiết bị y tế hiện đại tại phòng khám Đa khoa Tân Bình</i>
-</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Để đáp ứng nhu cầu khám chữa bệnh cho các quý ông, đặc biệt là những người ở xa, người bận rộn…phòng khám là địa chỉ khám nam khoa tại tphcm làm việc tất cả các ngày trong tuần, không nghỉ lễ, tết.&nbsp; Từ 8h - 20h, không nghỉ trưa nên bệnh nhân có thể đến khám mà không lo ảnh hưởng đến công việc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">- &nbsp; Bảo mật thông tin cá nhân và hồ sơ bệnh án cho người bệnh</span>
-</p>
-<h3 style="text-align:justify;">
-<span style="background-color:transparent;color:#38761d;">
-<strong>Chi phí hợp lý</strong>
-</span>
-</h3>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">
-<strong>Đa khoa Tân Bình</strong> đang là phòng khám nam khoa tphcm có chất lượng cao nhưng chi phí lại cực kì hợp lý. Phòng khám luôn tuân thủ đúng quy định của Sở Y tế, giá cả niêm yết, minh bạch và công khai, xuất trình hóa đơn đỏ cho bệnh nhân. Khi đến phòng khám, bệnh nhân không lo bị “chặt chém” tiền bạc.</span>
-</p>
-<p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Nhờ những thế mạnh vượt trội về chất lượng khám nam khoa tại&nbsp;</span>
-<a href="https://uuviet.ecollect.vn/public/media/files/ecollect/6430526.pdf">
+<a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi">
 <span style="background-color:transparent;color:#1155cc;">
 <strong>
-<u>phòng khám đa khoa Tân Bình TPHCM</u>
+<u>Phòng khám Chuyên Khoa An Đông</u>
 </strong>
 </span>
 </a>
-<span style="background-color:transparent;color:#000000;"> nên cơ sở này luôn có một lượng bệnh nhân ghé thăm đông đúc. Để nhận được những ưu đãi hấp dẫn về chi phí cũng như các dịch vụ y tế cao với mức giá thấp, hãy nhanh chóng trò chuyện với các chuyên gia để được tư vấn tận tình hơn</span>
+<span style="background-color:transparent;color:#000000;"> là một cơ sở y tế đa chuyên khoa tọa lạc tại vị trí thuận tiện với mục tiêu cung cấp dịch vụ chăm sóc sức khỏe toàn diện và chất lượng cao đến cho bệnh nhân. Dưới đây là một số thông tin chi tiết nổi bật về phòng khám như:</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<i>
+<strong>Đội ngũ chuyên gia chất lượng cao&nbsp;</strong>
+</i>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám tự hào có một đội ngũ y bác sĩ và nhân viên y tế có trình độ chuyên môn cao, giàu kinh nghiệm và tận tâm với sức khỏe bệnh nhân. Bác sĩ trực thuộc tại phòng khám đều là những thạc sĩ, tiến sĩ hàng đầu từng công tác tại các bệnh viện lớn. Họ có kinh nghiệm chuyên sâu về bệnh, nắm bắt triệu chứng nhanh chóng để đưa ra phương án điều trị phù hợp. Cơ sở y tế luôn cam kết mang đến cho mọi người bệnh sự chăm sóc an toàn và chất lượng.&nbsp;</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<i>
+<strong>Trang thiết bị y tế tiên tiến</strong>
+</i>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Công ty TNHH&nbsp;</span>
+<a href="https://suckhoe123.vn/tin-tuc/phong-kham-an-dong-phuong-294.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> được trang bị các thiết bị y tế hiện đại và tiên tiến nhằm đảm bảo chẩn đoán chính xác và điều trị hiệu quả. Phòng khám không ngừng cập nhật công nghệ và thiết bị mới nhất để đáp ứng nhu cầu y tế ngày càng cao của khách hàng.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<i>
+<strong>Dịch vụ chăm sóc toàn diện</strong>
+</i>
+</span>
+</h3>
+<p style="text-align:justify;">
+<a href="https://vrrc.apc.tw/ckfinder/ckfiles/files/13327625.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Chuyên Khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> cung cấp các dịch vụ chăm sóc sức khỏe toàn diện bao gồm khám bệnh, chẩn đoán, điều trị, phòng ngừa và tư vấn sức khỏe. Cơ sở y tế luôn đảm bảo mục tiêu mọi khách hàng đều nhận được sự chăm sóc và giải pháp y tế tốt nhất cho nhu cầu riêng của người bệnh.</span>
+</p>
+<p style="text-align:center;">
+<span style="background-color:transparent;color:#000000;">
+<img src="https://i.imgur.com/EVpqMnE.jpeg">
+</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<i>
+<strong>Không gian thoải mái và thân thiện</strong>
+</i>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Phòng khám tạo ra một không gian khám chữa bệnh thoải mái và thân thiện, giúp khách hàng cảm thấy an toàn và tự tin trong quá trình điều trị. Luôn tạo điều kiện thuận lợi để khách hàng có trải nghiệm y tế tốt nhất.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<i>
+<strong>Dịch vụ khách hàng tận tâm&nbsp;</strong>
+</i>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tại công ty TNHH&nbsp;</span>
+<a href="https://amavet.com.vn/kcfinder/upload/files/top10udad360adv.pdf">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Đa Khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;">, khách hàng luôn là ưu tiên hàng đầu. Phòng khám cam kết đáp ứng mọi nhu cầu của khách hàng một cách tận tâm và nhanh chóng. Đội ngũ nhân viên luôn sẵn sàng lắng nghe và hỗ trợ khách hàng trong mọi thời điểm.</span>
 </p>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Thông tin liên hệ: Phòng Khám Ða Khoa Tân Bình</span>
+<span style="background-color:transparent;color:#000000;">Tóm lại,&nbsp;</span>
+<a href="http://phongkhamdakhoaandong.xim.tv/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>phòng khám Chuyên Khoa An Đông</u>
+</strong>
+</span>
+</a>
+<span style="background-color:transparent;color:#000000;"> tự hào là một địa chỉ y tế tin cậy với đội ngũ chuyên gia, trang thiết bị hiện đại và dịch vụ chăm sóc uy tín và an toàn tại khu vực thành phố Hồ Chí Minh.</span>
+</p>
+<h3 style="text-align:justify;">
+<span style="background-color:transparent;color:#0000ff;">
+<i>
+<strong>Thời gian làm việc&nbsp;</strong>
+</i>
+</span>
+</h3>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Tất cả các ngày trong tuần từ 8:00 - 20:00 và luôn làm việc trong các ngày Lễ, Tết. Chính vì thế các bạn có thời gian và công việc bận rộn có thể thoải mái lựa chọn khung giờ thăm khám phù hợp với bản thân.&nbsp;</span>
 </p>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Ðịa chỉ: 495 Cộng Hòa, Phường 15, Quận Tân Bình, TP. HCM</span>
+<span style="background-color:transparent;color:#000000;">PHÒNG KHÁM CHUYÊN KHOA AN ĐÔNG</span>
 </p>
 <p style="text-align:justify;">
-<span style="background-color:transparent;color:#000000;">Hotline: 0282 206 3333</span>
+<span style="background-color:transparent;color:#000000;">Địa chỉ: 360 An Dương Vương, Phường 4, Quận 5, TP. Hồ Chí Minh</span>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Hotline: 028 7777 9888</span>
 </p>
 <p style="text-align:justify;">
 <span style="background-color:transparent;color:#000000;">Website:&nbsp;</span>
-<a href="https://dakhoatanbinh.vn">
+<a href="https://phongkhamchuyenkhoaandong.vn">
 <span style="background-color:transparent;color:#1155cc;">
-<u>https://dakhoatanbinh.vn</u>
+<u>https://phongkhamchuyenkhoaandong.vn</u>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Facebook:&nbsp;</span>
+<a href="https://www.facebook.com/phongkhamandong/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám An Đông</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">Youtube:&nbsp;</span>
+<a href="https://www.youtube.com/@Ph%C3%B2ngKh%C3%A1mChuy%C3%AAnKhoaAn%C4%90%C3%B4ng">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám Chuyên Khoa An Đông</u>
+</strong>
+</span>
+</a>
+</p>
+<p>&nbsp;</p>
+<p style="text-align:justify;">
+<span style="background-color:transparent;color:#000000;">
+<strong>Xem thêm báo chí nói gì về Phòng Khám Đa Khoa An Đông:</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://suckhoe123.vn/tin-tuc/phong-kham-an-dong-phuong-294.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông Phường Chợ Quán - Địa chỉ chăm sóc sức khỏe nam giới toàn diện</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/dat-hen-truc-tuyen-tai-phong-kham-an-dong-tien-loi-nhanh-chong-va-bao-mat-post1226719.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Đặt hẹn trực tuyến tại Phòng khám An Đông: Tiện lợi, nhanh chóng và bảo mật</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://tuoitre.vn/dich-vu-dat-hen-truc-tuyen-cua-phong-kham-chuyen-khoa-an-dong-quan-5-20250624173143567.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Dịch vụ đặt hẹn trực tuyến của Phòng khám chuyên khoa An Đông, quận 5</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vov.vn/doanh-nghiep/thong-tin-doanh-nghiep/phong-kham-an-dong-phuong-cho-quan-dia-chi-tham-kham-nam-khoa-post1216277.vov">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông phường Chợ Quán – địa chỉ thăm khám nam khoa</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-an-dong-luon-dat-chat-luong-dich-vu-va-su-hai-long-cua-khach-hang-len-hang-dau_172534.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông luôn đặt chất lượng dịch vụ và sự hài lòng của khách hàng lên hàng đầu</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://congan.com.vn/doi-song/suc-khoe/phong-kham-da-khoa-an-dong-uy-tin-tan-tam-vi-suc-khoe-cong-dong_177951.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa An Đông uy tín, tận tâm vì sức khỏe cộng đồng</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vneconomy.vn/phong-kham-da-khoa-an-dong-co-tot-khong.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám Đa Khoa An Đông có tốt không?&nbsp;</u>
+</strong>
+<u>&nbsp;</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#5f5f5f;">
+<strong>&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://dantri.com.vn/suc-khoe/phong-kham-an-dong-dia-chi-cham-soc-suc-khoe-tai-tphcm-20241218202022715.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông - địa chỉ chăm sóc sức khỏe tại TPHCM&nbsp;</u>
+</strong>
+<u>&nbsp;</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#5f5f5f;">
+<strong>&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://vtcnews.vn/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-ar931025.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông – Địa chỉ khám chữa bệnh chuyên nghiệp</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://baomoi.com/phong-kham-an-dong-dia-chi-kham-chua-benh-chuyen-nghiep-c51686139.epi">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông – Địa chỉ khám chữa bệnh chuyên nghiệp</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://www.nguoiduatin.vn/phong-kham-an-dong-360-d-an-duong-vuong-phuong-4-quan-5-20424121910463483.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng Khám An Đông 360 Đ. An Dương Vương, Phường 4, Quận 5&nbsp;</u>
+</strong>
+<u>&nbsp;</u>
+</span>
+</a>
+<span style="background-color:transparent;color:#5f5f5f;">
+<strong>&nbsp;</strong>
+</span>
+</p>
+<p style="text-align:justify;">
+<a href="https://tinmoi.vn/dich-vu-dat-hen-cong-nghe-cao-cua-phong-kham-chuyen-khoa-an-dong-quan-5-d330-011640161.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Dịch vụ đặt hẹn công nghệ cao của Phòng khám Chuyên khoa An Đông Quận 5</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://ngoisao.vn/suc-khoe/cham-soc-suc-khoe/phong-kham-an-dong-360-dong-hanh-cung-ban-tren-hanh-trinh-suc-khoe-455403.htm">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Phòng khám An Đông 360 – Đồng hành cùng bạn trên hành trình sức khỏe</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://vnreview.vn/threads/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban.62882/">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chuyên Khoa An Đông - Đối tác tin cậy cho sức khỏe của bạn</u>
+</strong>
+</span>
+</a>
+</p>
+<p style="text-align:justify;">
+<a href="https://doisongvietnam.vn/chuyen-khoa-an-dong-doi-tac-tin-cay-cho-suc-khoe-cua-ban-157334-6.html">
+<span style="background-color:transparent;color:#1155cc;">
+<strong>
+<u>Chuyên khoa An Đông - Đối tác tin cậy cho sức khỏe của bạn</u>
+</strong>
 </span>
 </a>
 </p>
 
 
-<style>*{max-width: 100%!important; min-width: auto!important; box-sizing: border-box;}img { display: block;  margin-left: auto;  margin-right: auto;}body{margin: 0 auto; text-align:justify; width:980px; font-family: Tahoma, Verdana, Segoe, sans-serif; line-height: 26px;}.header{position: relative; border-bottom: 1px solid #ddd; height: 90px; background-color: #fff; margin: 10px;}.logo{width: 50%; float: left;}.logo img{width: 80%; height: auto;}.UU_DAI{display: none;}.footer{background-color: #007bc8; color: white; text-align: center; padding: 5px;}.contact-mobi{display: none;}.desktop-contact .banner-left{display: block; position: fixed; bottom: 125px; left: 40px; z-index: 99999999;}.desktop-contact .chat-desktop{display: block; position: fixed; bottom: 100px; right: 40px; z-index: 99999999;}.desktop-contact .messenger-box{display: block; position: fixed; bottom: 160px; right: 120px; z-index: 99999999;}a{color: #007bc8; text-decoration: none;}h1, h2, h3{line-height: normal;margin: 20px 0;font-weight: bold;}h1, h2, h3, p{color: black;text-align: justify;}@keyframes floating_top{65%{transform:translate(0,-10px)}to{transform:translate(0,0)}}@media screen and (max-width: 600px){.header{margin: 0; height: 70px;}.logo img{width: 99%;}.banner-top-desktop{display: none;}.UU_DAI{display: block;}body{width: 100% !important; margin: 0 auto;}#content{width: 95%;}#content img{width: 100% !important;height: auto !important;}.logo{width: 70%; float: none; height: auto; margin: 0 auto; text-align: center; padding: 5px 0;}.contact-mobi{display: block;position: fixed; bottom: 0; left: 0; width: 100%; height: auto; background-image: linear-gradient(#fff,#dadada); text-align: center; border-top: 1px dashed #d8d8d8; z-index: 9999999}.contact-mobi .list-item{list-style-type: none;}.contact-mobi .list-item li{display: block; float: left; width: 25%; list-style-type: none; border-right: 1px dashed #a2a2a2;}.contact-mobi .list-item li:last-child{border-right: none;}.contact-mobi .list-item li:first-child{margin-right: 0;}.contact-mobi .list-item li a{display: inline-block; height: auto; text-align: center;}.contact-mobi .list-item li a img{display: inline-block; width: 42px; height: 42px; box-shadow: 1px 1px 13px 0 #a0a0a0; border-radius: 50%; animation: floating_top .5s linear;}.contact-mobi .list-item li:nth-child(2) img{animation-delay: .5s;}.contact-mobi .list-item li:nth-child(3) img{animation-delay: 1s;}.contact-mobi .list-item li:nth-child(4) img{animation-delay: 1.5s;}.contact-mobi .list-item li a .title{display: block; font-size: 16px; color: #000; text-align: center;}.desktop-contact{display: none;}.footer{margin-bottom: 70px;}#content{margin: 3%;overflow-wrap: break-word}}h1{color: #08b; font-size: 20px; line-height: 30px;}p{font-size: 16px;}h2{color: #08b; font-size: 19px; line-height: 30px;}h3{color: #08b; font-size: 18px; line-height: 30px;}li{line-height: 30px; font-size: 16px;}</style>
 
-<div style="position:absolute;left: 0px;padding-top: 10px;font-size:16px;width:100%;background: #0050b3;text-align: center;"><p style="color: #fff;text-align: center;margin-left: 10%;margin-right: 10%;">Nội dung bài viết "Phòng Khám Đa Khoa Tân Bình - 495 Cộng Hòa, Phường 15, Quận Tân Bình, Thành phố Hồ Chí Minh" chỉ mang tính chất tham khảo, vui lòng liên hệ với Bác sĩ hoặc chuyên viên y tế của Phòng khám Đa khoa Tân Bình để được tư vấn cụ thể.</p> <p></p><br></div>
+    <div id="button" style="position:fixed; right:2%; bottom:10%; z-index:99999;">
+    <div class="chat">
+        <a target="_blank" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" rel="nofollow">
+            <img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt="Live Chat"> </a> </div> </div>
+            <a rel="follow,noopener" href="https://npa.zoosnet.net/LR/Chatpre.aspx?id=NPA46777247&c" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
 </body>
 </html>
-<div class="chatchit">
-<div id="button" style="position:fixed;left:auto;top:auto;right:2%;bottom:10%;z-index:99999;"><div class="chat" style=""><a target="_blank" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://phongkhamdakhoatanbinh.vn/&r=&rf1=&rf2=&cid=f3b7377614434c2f881a1c9b2ac50716&sid=1ae8394f69c64b10be241459808293d8" rel="nofollow"><img src="https://global-uploads.webflow.com/5c93193a199a684109dd80f8/600fe01e1663232bccf14af5_5d7f40f74cc8594c9d854185_rchat.gif" alt=""></a></div></div>
-<a rel="follow,noopener" href="https://mfp.zoosnet.net/LR/Chatpre.aspx?id=MFP16752728&lng=en&p=https://phongkhamdakhoatanbinh.vn/&r=&rf1=&rf2=&cid=f3b7377614434c2f881a1c9b2ac50716&sid=1ae8394f69c64b10be241459808293d8" class="w-inline-block"><div><img style="position:fixed;left:auto;top:40%;width:120px!important;right:0%;bottom:auto;margin-top:100px;margin-right:-30px;margin-bottom:0px;" src="https://global-uploads.webflow.com/640696c266a0cb0b83d2c96a/64094447e77edc0c1e47abba_5cd3943ffeabaf5f03705231_hotline.gif" rel="nofollow" alt="" width="120px;" class="image"></div></a>
-</div>
+
   `
 };
 
@@ -244,4 +432,5 @@ const h1 = document.querySelector("#app h1");
 if (h1) {
   document.title = h1.textContent.trim();
 }
+
 
