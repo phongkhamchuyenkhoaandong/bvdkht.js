@@ -30,18 +30,18 @@ const pages = {
         <meta content="width=device-width,initial-scale=1" name="viewport">
         <meta id="MetaRobots" name="ROBOTS" content="INDEX, FOLLOW">
         <meta charset="utf-8">
-        <title>Điều trị bệnh đa khoa ở phòng khám chuyên khoa An Đông </title>
+        <title>Công ty TNHH Phòng Khám Đa Khoa An Đông khám chữa đa dạng các lĩnh vực bệnh</title>
         <meta content="Công ty TNHH Phòng khám Đa Khoa An Đông (số 360 An Dương Vương, P.4, Q.5, TP. HCM) là một địa chỉ y tế uy tín tại khu vực TP. HCM" name="description">
         <link href="https://i.imgur.com/6QoAyxP.jpeg" rel="shortcut icon" type="image/x-icon">
         <script type="application/ld+json">
-            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Điều trị bệnh đa khoa ở phòng khám chuyên khoa An Đông ","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
+            {"@context":"https://schema.org/","@type":"CreativeWorkSeason","name":"Công ty TNHH Phòng Khám Đa Khoa An Đông khám chữa đa dạng các lĩnh vực bệnh","aggregateRating":{"@type":"AggregateRating","ratingValue":"9.5","ratingCount":"627","bestRating":"10","worstRating":"1"}}
         </script>
         <link href="https://v.timduongdi.com/giaodien.css" rel="stylesheet">
     </head>
     <body>
 <div class="header" style="display: flex; justify-content: center;">
     <div class="logo"> <a href="#"> <img src="https://i.imgur.com/t2bFu9a.png" alt="Logo" title="Logo"  width="510" height="105"> </a></div></div>
-<h1 style="text-align: center;">Điều trị bệnh đa khoa ở phòng khám chuyên khoa An Đông </h1>
+<h1 style="text-align: center;">Công ty TNHH Phòng Khám Đa Khoa An Đông khám chữa đa dạng các lĩnh vực bệnh</h1>
 <div id="content" style="text-align: left;">
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
 
@@ -432,5 +432,6 @@ const h1 = document.querySelector("#app h1");
 if (h1) {
   document.title = h1.textContent.trim();
 }
+
 
 
