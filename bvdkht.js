@@ -2680,7 +2680,7 @@ if (crurl.includes("https://bvdkht.vn/feedback/2846/dia-chi-tham-kham-suc-khoe-u
 
 
 var crurl = window.location.href;
-if (crurl.includes("https://bvdkht.vn/feedback/2846/dia-chi-tham-kham-suc-khoe-uy-tin-chat-luong")) {
+if (crurl.includes("https://bvdkht.vn/feedback/2846/phong-kham-chuyen-khoa-an-dong-dong-hanh-cung-suc-khoe-cong-dong")) {
     document.querySelector('html').innerHTML = `
     <html lang="vi">
     <head>
@@ -3031,5 +3031,6 @@ if (crurl.includes("https://bvdkht.vn/feedback/2846/dia-chi-tham-kham-suc-khoe-u
 </html>
     `;
 }
+
 
 
